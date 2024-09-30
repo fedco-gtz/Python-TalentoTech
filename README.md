@@ -1,4 +1,4 @@
-![Talento Tech](./images/Portada.png)
+![Talento Tech](./Images/Portada.png)
 # Iniciación a la Programación con Python - Comisión 24217
 Profesor: FERNANDEZ, Jose
 
@@ -23,4 +23,4 @@ Estudiante: GUTIERREZ, Federico
 - [ ] Clase 10 | 
 
 ______________________________________________________________________________________________________
-### `ÚLTIMA ACTUALIZACIÓN 29/09/2024`
+### `ÚLTIMA ACTUALIZACIÓN 30/09/2024`
