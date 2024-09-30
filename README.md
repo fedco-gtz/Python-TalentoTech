@@ -6,14 +6,14 @@ Tutora Pedagógica: ARRIBILLAGA, Amancay
 
 Estudiante: GUTIERREZ, Federico
 
-## Ruta N° 1: Fundamentos de programación en Python | ![Progreso](https://img.shields.io/badge/Progreso-100%25-brightgreen.svg)
+## Ruta N° 1: Fundamentos de programación en Python | ![Progreso](https://img.shields.io/badge/Progreso-83.33%25-brightgreen.svg)
 
 - [x] Clase 01 | Introducción
 - [x] Clase 02 | Algoritmos
 - [x] Clase 03 | Python
 - [x] Clase 04 | Definimos Avances
 - [x] Clase 05 | Condicionales
-- [ ] Clase 06 | Bucles while
+- [x] Clase 06 | Bucles while
 
 ## Ruta N° 2: Estructuras de Datos en Python | ![Progreso](https://img.shields.io/badge/Progreso-0%25-brightgreen.svg)
 
