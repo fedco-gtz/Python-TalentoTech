@@ -6,7 +6,7 @@ Tutora Pedagógica: ARRIBILLAGA, Amancay
 
 Estudiante: GUTIERREZ, Federico
 
-## Ruta N° 1: Fundamentos de programación en Python | ![Progreso](https://img.shields.io/badge/Progreso-83.33%25-brightgreen.svg)
+## Ruta N° 1: Fundamentos de programación en Python | ![Progreso](https://img.shields.io/badge/Progreso-100%25-brightgreen.svg)
 
 - [x] Clase 01 | Introducción
 - [x] Clase 02 | Algoritmos
