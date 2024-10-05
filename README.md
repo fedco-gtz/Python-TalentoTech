@@ -11,7 +11,7 @@ Estudiante: GUTIERREZ, Federico
 - [x] Clase 01 | Introducción
 - [x] Clase 02 | Algoritmos
 - [x] Clase 03 | Python
-- [x] Clase 04 | Definimos Avances
+- [x] Clase 04 | Definimos Avances 
 - [x] Clase 05 | Condicionales
 - [x] Clase 06 | Bucles while
 
@@ -31,5 +31,13 @@ Estudiante: GUTIERREZ, Federico
 - [ ] Clase 15 | SQLite
 - [ ] Clase 16 | Ruta de Avance
 
+## Desafíos | ![Progreso](https://img.shields.io/badge/Progreso-100%25-brightgreen.svg)
+
+- [x] Clase 04 | Desafío 1: Datos personales en formato de tarjeta
+
+## Ruta de avance | ![Progreso](https://img.shields.io/badge/Progreso-100%25-brightgreen.svg)
+
+- [x] Clase 04 | Ruta de Avance 1: Creación del menú de opciones
+
 ______________________________________________________________________________________________________
-### `ÚLTIMA ACTUALIZACIÓN 30/09/2024`
+### `ÚLTIMA ACTUALIZACIÓN 05/10/2024`
