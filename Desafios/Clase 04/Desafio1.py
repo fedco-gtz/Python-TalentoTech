@@ -1,3 +1,7 @@
+# |-------------------------------------------------|
+# | Desafio 1 - Datos personales en formato tarjeta |
+# |-------------------------------------------------|
+
 from datetime import datetime
 
 nombre = input("Ingresa tu nombre: ")

@@ -34,6 +34,7 @@ Estudiante: GUTIERREZ, Federico
 ## Desafíos | ![Progreso](https://img.shields.io/badge/Progreso-100%25-brightgreen.svg)
 
 - [x] Clase 04 | Desafío 1: Datos personales en formato de tarjeta
+- [x] Clase 06 | Ejercicios complementarios
 
 ## Ruta de avance | ![Progreso](https://img.shields.io/badge/Progreso-50%25-brightgreen.svg)
 
@@ -43,4 +44,4 @@ Estudiante: GUTIERREZ, Federico
 - [ ] Clase 15 | Proyecto final [DEVOLUCIÓN](https://http.cat/102)
 
 ______________________________________________________________________________________________________
-### `ÚLTIMA ACTUALIZACIÓN 19/10/2024`
+### `ÚLTIMA ACTUALIZACIÓN 21/10/2024`
