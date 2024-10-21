@@ -15,11 +15,11 @@ Estudiante: GUTIERREZ, Federico
 - [x] Clase 05 | Condicionales
 - [x] Clase 06 | Bucles while
 
-## Ruta N° 2: Estructuras de Datos en Python | ![Progreso](https://img.shields.io/badge/Progreso-33%25-brightgreen.svg)
+## Ruta N° 2: Estructuras de Datos en Python | ![Progreso](https://img.shields.io/badge/Progreso-50%25-brightgreen.svg)
 
 - [x] Clase 07 | Listas y Tuplas
 - [x] Clase 08 | Pre - Entrega de Proyecto
-- [ ] Clase 09 | Bucles for
+- [x] Clase 09 | Bucles for
 - [ ] Clase 10 | Diccionarios
 - [ ] Clase 11 | Funciones
 - [ ] Clase 12 | Ruta de Avance
