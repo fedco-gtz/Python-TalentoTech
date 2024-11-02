@@ -15,7 +15,7 @@ Estudiante: GUTIERREZ, Federico
 - [x] Clase 05 | Condicionales
 - [x] Clase 06 | Bucles while
 
-## Ruta N° 2: Estructuras de Datos en Python | ![Progreso](https://img.shields.io/badge/Progreso-67%25-brightgreen.svg)
+## Ruta N° 2: Estructuras de Datos en Python | ![Progreso](https://img.shields.io/badge/Progreso-83%25-brightgreen.svg)
 
 - [x] Clase 07 | Listas y Tuplas
 - [x] Clase 08 | Pre - Entrega de Proyecto
@@ -31,10 +31,11 @@ Estudiante: GUTIERREZ, Federico
 - [ ] Clase 15 | SQLite
 - [ ] Clase 16 | Ruta de Avance
 
-## Desafíos | ![Progreso](https://img.shields.io/badge/Progreso-100%25-brightgreen.svg)
+## Desafíos y Ejercicios Complementarios | ![Progreso](https://img.shields.io/badge/Progreso-100%25-brightgreen.svg)
 
 - [x] Clase 04 | Desafío 1: Datos personales en formato de tarjeta
 - [x] Clase 06 | Ejercicios complementarios
+- [x] Clase 07 | Ejercicios complementarios
 
 ## Ruta de avance | ![Progreso](https://img.shields.io/badge/Progreso-50%25-brightgreen.svg)
 
@@ -44,4 +45,4 @@ Estudiante: GUTIERREZ, Federico
 - [ ] Clase 15 | Proyecto final [DEVOLUCIÓN](https://http.cat/102)
 
 ______________________________________________________________________________________________________
-### `ÚLTIMA ACTUALIZACIÓN 31/10/2024`
+### `ÚLTIMA ACTUALIZACIÓN 01/11/2024`
