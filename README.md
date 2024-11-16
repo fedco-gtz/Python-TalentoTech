@@ -1,4 +1,4 @@
-![Talento Tech](./Images/Portada.png)
+![Talento Tech](./images/Portada.png)
 # Iniciación a la Programación con Python - Comisión 24217
 Profesor: FERNANDEZ, Jose &nbsp;&nbsp;[<img src="./Images/Gmail.png" alt="Gmail Logo" width="31" height="25">](mailto:josea.fernandez@bue.edu.ar)
 &nbsp;&nbsp;[<img src="./Images/Drive.png" alt="Drive Logo" width="27" height="25">](https://drive.google.com/drive/folders/1sDw4tFgbA_-wmraTWOxK30MRs0b3I4Zq?usp=sharing)
