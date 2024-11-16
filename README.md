@@ -7,7 +7,7 @@ Tutora Pedagógica (Hasta 13/11): ARRIBILLAGA, Amancay &nbsp;&nbsp;[<img src="./
 
 Tutora Pedagógica (Desde 14/11): THEMTHAM, Natalia &nbsp;&nbsp;[<img src="./images/Gmail.png" alt="Gmail Logo" width="31" height="25">](mailto:natalia.themtham@bue.edu.ar)
 
-Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./images/Linkedin.png" alt="Linkedin Logo" width="25" height="25">](www.linkedin.com/in/fedco-grrz) 
+Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./images/LinkedIn.png" alt="LinkedIn Logo" width="25" height="25">](www.linkedin.com/in/fedco-grrz) 
 &nbsp;&nbsp;[<img src="./images/Github.png" alt="Github Logo" width="25" height="25">](https://github.com/fedco-gtz)
 &nbsp;&nbsp;[<img src="./images/Gmail.png" alt="Gmail Logo" width="31" height="25">](mailto:gutierrezfedericog@gmail.com)
 &nbsp;&nbsp;[<img src="./images/Drive.png" alt="Drive Logo" width="27" height="25">](https://drive.google.com/drive/folders/1nmv8z9IWYLgcb1j6JDrU8eJWNWuQ-hF_?usp=sharing)
@@ -49,13 +49,13 @@ Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./images/Linkedin.png" al
 &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/PFI/Ruta%20de%20Avance%201)
 &nbsp;[<img src="./images/Devolucion.png" alt="Devolucion Logo" width="25" height="25">](https://docs.google.com/document/d/1NjHeVrIaFiZAWww__jJV_Jnjs2v7LmIq/edit?usp=sharing&ouid=111304312363209534974&rtpof=true&sd=true)
 - [x] Clase 08 | Pre-Entrega del Proyecto Final
-&nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/PFI/Pre%20Entrega%20de%20Proyecto)
+&nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/PFI/Pre-Entrega%20de%20Proyecto%20Final)
 &nbsp;[<img src="./images/Devolucion.png" alt="Devolucion Logo" width="25" height="25">](https://docs.google.com/document/d/1hUjsyicHVHAl6JHEX0ZLOB3y5TtseNDz/edit?usp=sharing&ouid=111304312363209534974&rtpof=true&sd=true)
 - [ ] Clase 12 | Ruta de Avance 2: Funciones
 &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/PFI/Ruta%20de%20Avance%202)
 &nbsp;[<img src="./images/Devolucion.png" alt="Devolucion Logo" width="25" height="25">](https://drive.google.com/open?id=1hUjsyicHVHAl6JHEX0ZLOB3y5TtseNDz&usp=drive_copy)
 - [ ] Clase 15 | Proyecto Final
-&nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">]()
+&nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/PFI/Entrega%20del%20Proyecto%20Final)
 &nbsp;[<img src="./images/Devolucion.png" alt="Devolucion Logo" width="25" height="25">](https://docs.google.com/document/d/1gI3RVrM6U5_kL1pMv91QM1aFhqSsNG87/edit?usp=sharing&ouid=111304312363209534974&rtpof=true&sd=true)
 
 ______________________________________________________________________________________________________
