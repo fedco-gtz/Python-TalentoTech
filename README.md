@@ -7,7 +7,7 @@ Tutora Pedagógica (Hasta 13/11): ARRIBILLAGA, Amancay &nbsp;&nbsp;[<img src="./
 
 Tutora Pedagógica (Desde 14/11): THEMTHAM, Natalia &nbsp;&nbsp;[<img src="./images/Gmail.png" alt="Gmail Logo" width="31" height="25">](mailto:natalia.themtham@bue.edu.ar)
 
-Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./images/LinkedIn.png" alt="LinkedIn Logo" width="25" height="25">](www.linkedin.com/in/fedco-grrz) 
+Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./images/linkedin.png" alt="LinkedIn Logo" width="25" height="25">](www.linkedin.com/in/fedco-grrz) 
 &nbsp;&nbsp;[<img src="./images/Github.png" alt="Github Logo" width="25" height="25">](https://github.com/fedco-gtz)
 &nbsp;&nbsp;[<img src="./images/Gmail.png" alt="Gmail Logo" width="31" height="25">](mailto:gutierrezfedericog@gmail.com)
 &nbsp;&nbsp;[<img src="./images/Drive.png" alt="Drive Logo" width="27" height="25">](https://drive.google.com/drive/folders/1nmv8z9IWYLgcb1j6JDrU8eJWNWuQ-hF_?usp=sharing)
