@@ -1,16 +1,16 @@
 ![Talento Tech](./images/Portada.png)
 # Iniciación a la Programación con Python - Comisión 24217
-Profesor: FERNANDEZ, Jose &nbsp;&nbsp;[<img src="./Images/Gmail.png" alt="Gmail Logo" width="31" height="25">](mailto:josea.fernandez@bue.edu.ar)
-&nbsp;&nbsp;[<img src="./Images/Drive.png" alt="Drive Logo" width="27" height="25">](https://drive.google.com/drive/folders/1sDw4tFgbA_-wmraTWOxK30MRs0b3I4Zq?usp=sharing)
+Profesor: FERNANDEZ, Jose &nbsp;&nbsp;[<img src="./images/Gmail.png" alt="Gmail Logo" width="31" height="25">](mailto:josea.fernandez@bue.edu.ar)
+&nbsp;&nbsp;[<img src="./images/Drive.png" alt="Drive Logo" width="27" height="25">](https://drive.google.com/drive/folders/1sDw4tFgbA_-wmraTWOxK30MRs0b3I4Zq?usp=sharing)
 
-Tutora Pedagógica (Hasta 13/11): ARRIBILLAGA, Amancay &nbsp;&nbsp;[<img src="./Images/Gmail.png" alt="Gmail Logo" width="31" height="25">](mailto:amancay.arribillaga@bue.edu.ar) 
+Tutora Pedagógica (Hasta 13/11): ARRIBILLAGA, Amancay &nbsp;&nbsp;[<img src="./images/Gmail.png" alt="Gmail Logo" width="31" height="25">](mailto:amancay.arribillaga@bue.edu.ar) 
 
-Tutora Pedagógica (Desde 14/11): THEMTHAM, Natalia &nbsp;&nbsp;[<img src="./Images/Gmail.png" alt="Gmail Logo" width="31" height="25">](mailto:natalia.themtham@bue.edu.ar)
+Tutora Pedagógica (Desde 14/11): THEMTHAM, Natalia &nbsp;&nbsp;[<img src="./images/Gmail.png" alt="Gmail Logo" width="31" height="25">](mailto:natalia.themtham@bue.edu.ar)
 
-Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./Images/LinkedIn.png" alt="LinkedIn Logo" width="25" height="25">](www.linkedin.com/in/fedco-grrz)
-&nbsp;&nbsp;[<img src="./Images/Github.png" alt="Github Logo" width="25" height="25">](https://github.com/fedco-gtz)
-&nbsp;&nbsp;[<img src="./Images/Gmail.png" alt="Gmail Logo" width="31" height="25">](mailto:gutierrezfedericog@gmail.com)
-&nbsp;&nbsp;[<img src="./Images/Drive.png" alt="Drive Logo" width="27" height="25">](https://drive.google.com/drive/folders/1nmv8z9IWYLgcb1j6JDrU8eJWNWuQ-hF_?usp=sharing)
+Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./images/LinkedIn.png" alt="LinkedIn Logo" width="25" height="25">](www.linkedin.com/in/fedco-grrz)
+&nbsp;&nbsp;[<img src="./images/Github.png" alt="Github Logo" width="25" height="25">](https://github.com/fedco-gtz)
+&nbsp;&nbsp;[<img src="./images/Gmail.png" alt="Gmail Logo" width="31" height="25">](mailto:gutierrezfedericog@gmail.com)
+&nbsp;&nbsp;[<img src="./images/Drive.png" alt="Drive Logo" width="27" height="25">](https://drive.google.com/drive/folders/1nmv8z9IWYLgcb1j6JDrU8eJWNWuQ-hF_?usp=sharing)
 
 ## Ruta N° 1: Fundamentos de programación en Python | ![Progreso](https://img.shields.io/badge/Progreso-100%25-brightgreen.svg)
 
