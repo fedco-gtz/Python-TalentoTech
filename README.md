@@ -14,28 +14,28 @@ Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./images/Linkedin.png" al
 
 ## Ruta N° 1: Fundamentos de programación en Python | ![Progreso](https://img.shields.io/badge/Progreso-100%25-brightgreen.svg)
 
-- [x] Clase 01 | Introducción &nbsp;&nbsp;[<img src="./images/Drive.png" alt="Drive Logo" width="27" height="25">](https://drive.google.com/drive/folders/1nmv8z9IWYLgcb1j6JDrU8eJWNWuQ-hF_?usp=sharing)
-- [x] Clase 02 | Algoritmos
-- [x] Clase 03 | Python
-- [x] Clase 04 | Definimos Avances 
-- [x] Clase 05 | Condicionales
-- [x] Clase 06 | Bucles while
+- [x] Clase 01 | Introducción
+- [x] Clase 02 | Algoritmos &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2002)
+- [x] Clase 03 | Python &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2003)
+- [x] Clase 04 | Definimos Avances &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2004)
+- [x] Clase 05 | Condicionales &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2005)
+- [x] Clase 06 | Bucles while &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2006)
 
 ## Ruta N° 2: Estructuras de Datos en Python | ![Progreso](https://img.shields.io/badge/Progreso-100%25-brightgreen.svg)
 
-- [x] Clase 07 | Listas y Tuplas
-- [x] Clase 08 | Alta y consulta de datos
-- [x] Clase 09 | Bucles for
-- [x] Clase 10 | Diccionarios
-- [x] Clase 11 | Funciones
-- [x] Clase 12 | Funciones para el Proyecto Integrador
-- [x] Clase 13 | Módulos
+- [x] Clase 07 | Listas y Tuplas &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2007)
+- [x] Clase 08 | Alta y consulta de datos &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2008)
+- [x] Clase 09 | Bucles for &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2009)
+- [x] Clase 10 | Diccionarios &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2010)
+- [x] Clase 11 | Funciones &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2011)
+- [x] Clase 12 | Funciones para el Proyecto Integrador &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2012)
+- [x] Clase 13 | Módulos &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2013)
 
 ## Ruta N° 3: Introducción a Bases de Datos | ![Progreso](https://img.shields.io/badge/Progreso-0%25-brightgreen.svg)
 
-- [ ] Clase 14 | Fundamentos SQL
-- [ ] Clase 15 | SQLite
-- [ ] Clase 16 | Ruta de Avance
+- [ ] Clase 14 | Fundamentos SQL &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2014)
+- [ ] Clase 15 | SQLite &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2015)
+- [ ] Clase 16 | Ruta de Avance &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2016)
 
 ## Desafíos y Ejercicios Complementarios | ![Progreso](https://img.shields.io/badge/Progreso-100%25-brightgreen.svg)
 
