@@ -42,6 +42,7 @@ Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./images/linkedin.png" al
 - [x] Clase 04 | Desafío 1: Datos personales en formato de tarjeta &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Desafios/Clase%2004)
 - [x] Clase 06 | Ejercicios complementarios &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios%20complementarios/Clase%2006)
 - [x] Clase 07 | Ejercicios complementarios &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios%20complementarios/Clase%2007)
+- [x] Clase 10 | Ejercicios complementarios &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios%20complementarios/Clase%2010)
 
 ## Ruta de avance | ![Progreso](https://img.shields.io/badge/Progreso-75%25-brightgreen.svg)
 
