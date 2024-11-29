@@ -60,4 +60,4 @@ Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./images/linkedin.png" al
 &nbsp;[<img src="./images/Devolucion.png" alt="Devolucion Logo" width="25" height="25">](https://docs.google.com/document/d/1gI3RVrM6U5_kL1pMv91QM1aFhqSsNG87/edit?usp=sharing&ouid=111304312363209534974&rtpof=true&sd=true)
 
 ______________________________________________________________________________________________________
-### `ÚLTIMA ACTUALIZACIÓN 16/11/2024`
+### `ÚLTIMA ACTUALIZACIÓN 29/11/2024`
