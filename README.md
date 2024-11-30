@@ -43,6 +43,7 @@ Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./images/linkedin.png" al
 - [x] Clase 06 | Ejercicios complementarios &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios%20complementarios/Clase%2006)
 - [x] Clase 07 | Ejercicios complementarios &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios%20complementarios/Clase%2007)
 - [x] Clase 10 | Ejercicios complementarios &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios%20complementarios/Clase%2010)
+- [x] Clase 12 | Ejercicios complementarios &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios%20complementarios/Clase%2012)
 
 ## Ruta de avance | ![Progreso](https://img.shields.io/badge/Progreso-75%25-brightgreen.svg)
 
@@ -60,4 +61,4 @@ Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./images/linkedin.png" al
 &nbsp;[<img src="./images/Devolucion.png" alt="Devolucion Logo" width="25" height="25">](https://docs.google.com/document/d/1gI3RVrM6U5_kL1pMv91QM1aFhqSsNG87/edit?usp=sharing&ouid=111304312363209534974&rtpof=true&sd=true)
 
 ______________________________________________________________________________________________________
-### `ÚLTIMA ACTUALIZACIÓN 29/11/2024`
+### `ÚLTIMA ACTUALIZACIÓN 30/11/2024`
