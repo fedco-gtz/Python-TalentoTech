@@ -1,13 +1,15 @@
 Iniciación a la Programación con Python - Comisión 24217
 
 - Profesor: FERNANDEZ, Jose
-- Tutora Pedagógica (Desde 14/11): THEMTHAM, Natalia
+- Tutora Pedagógica: THEMTHAM, Natalia
 - Estudiante: GUTIERREZ, Federico
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________
+
 Descripción del Proyecto
 
 Este es un sistema de gestión de inventario simple que permite registrar, actualizar, eliminar, buscar productos y generar reportes de bajo stock. Además, ofrece funcionalidades de gestión de usuarios, permitiendo tanto el registro como el inicio de sesión de usuarios para acceder a las opciones del sistema. El sistema utiliza bases de datos SQLite para almacenar tanto la información de los productos como los usuarios.
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________
+
 Funcionalidades
 
 1. Registrar producto
@@ -33,14 +35,15 @@ Los usuarios pueden iniciar sesión en el sistema proporcionando su nombre de us
 
 8. Registrar usuario
 Permite registrar nuevos usuarios en el sistema con un nombre de usuario único y una contraseña. Si el nombre de usuario ya existe, muestra un mensaje de error.
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________
 Herramientas Utilizadas
 
 1. Python 3.x: Lenguaje de programación utilizado para desarrollar el sistema.
 2. SQLite: Base de datos liviana usada para almacenar los datos de los productos y los usuarios.
 3. os: Módulo para interactuar con el sistema operativo, usado para limpiar la pantalla de la terminal.
 4. time: Módulo usado para pausar la ejecución del programa y crear una experiencia de usuario más fluida.
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________
+
 Instrucciones para Ejecutar el Proyecto
 
 1. Requisitos previos:
@@ -51,7 +54,7 @@ Instrucciones para Ejecutar el Proyecto
 4. Interacción con el sistema:
      - El sistema mostrará un menú de inicio donde podrás iniciar sesión, registrarte o salir.
      - Si inicias sesión correctamente, accederás al menú principal donde podrás gestionar los productos del inventario.
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________
 Notas Adicionales
 1. Base de datos: Al ejecutar el código por primera vez, se crearán dos bases de datos: inventario.db para los productos y usuarios.db para los usuarios.
 2. Seguridad: Este sistema no implementa cifrado de contraseñas, por lo que se recomienda utilizarlo únicamente en entornos controlados o de prueba.
@@ -59,5 +62,5 @@ Notas Adicionales
      - Usuario: fedco                Contraseña: 1234
      - Usuario: tonif                Contraseña: 1234
      - Usuario: nataliath            Contraseña: 1234
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________
 ¡Gracias por utilizar este sistema de gestión de inventario! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
