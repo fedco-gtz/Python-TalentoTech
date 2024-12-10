@@ -45,7 +45,7 @@ Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./images/linkedin.png" al
 - [x] Clase 10 | Ejercicios complementarios &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios%20complementarios/Clase%2010)
 - [x] Clase 12 | Ejercicios complementarios &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios%20complementarios/Clase%2012)
 
-## Ruta de avance | ![Progreso](https://img.shields.io/badge/Progreso-75%25-brightgreen.svg)
+## Ruta de avance | ![Progreso](https://img.shields.io/badge/Progreso-100%25-brightgreen.svg)
 
 - [x] Clase 04 | Ruta de Avance 1: Creación del menú de opciones 
 &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/PFI/Ruta%20de%20Avance%201)
@@ -56,9 +56,9 @@ Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./images/linkedin.png" al
 - [x] Clase 12 | Ruta de Avance 2: Funciones
 &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/PFI/Ruta%20de%20Avance%202)
 &nbsp;[<img src="./images/Devolucion.png" alt="Devolucion Logo" width="25" height="25">](https://drive.google.com/open?id=1hUjsyicHVHAl6JHEX0ZLOB3y5TtseNDz&usp=drive_copy)
-- [ ] Clase 15 | Proyecto Final
+- [x] Clase 15 | Proyecto Final
 &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/PFI/Entrega%20del%20Proyecto%20Final)
 &nbsp;[<img src="./images/Devolucion.png" alt="Devolucion Logo" width="25" height="25">](https://docs.google.com/document/d/1gI3RVrM6U5_kL1pMv91QM1aFhqSsNG87/edit?usp=sharing&ouid=111304312363209534974&rtpof=true&sd=true)
 
 ______________________________________________________________________________________________________
-### `ÚLTIMA ACTUALIZACIÓN 30/11/2024`
+### `ÚLTIMA ACTUALIZACIÓN 09/12/2024`
