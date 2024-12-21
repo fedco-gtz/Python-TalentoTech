@@ -31,11 +31,11 @@ Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./images/linkedin.png" al
 - [x] Clase 12 | Funciones para el Proyecto Integrador &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2012)
 - [x] Clase 13 | Módulos &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2013)
 
-## Ruta N° 3: Introducción a Bases de Datos | ![Progreso](https://img.shields.io/badge/Progreso-33%25-brightgreen.svg)
+## Ruta N° 3: Introducción a Bases de Datos | ![Progreso](https://img.shields.io/badge/Progreso-100%25-brightgreen.svg)
 
 - [x] Clase 14 | Fundamentos SQL &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2014)
-- [ ] Clase 15 | SQLite &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2015)
-- [ ] Clase 16 | Ruta de Avance &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2016)
+- [x] Clase 15 | SQLite &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2015)
+- [x] Clase 16 | Ruta de Avance &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/Ejercicios/Clase%2016)
 
 ## Desafíos y Ejercicios Complementarios | ![Progreso](https://img.shields.io/badge/Progreso-100%25-brightgreen.svg)
 
@@ -55,10 +55,9 @@ Estudiante: GUTIERREZ, Federico &nbsp;&nbsp;[<img src="./images/linkedin.png" al
 &nbsp;[<img src="./images/Devolucion.png" alt="Devolucion Logo" width="25" height="25">](https://docs.google.com/document/d/1hUjsyicHVHAl6JHEX0ZLOB3y5TtseNDz/edit?usp=sharing&ouid=111304312363209534974&rtpof=true&sd=true)
 - [x] Clase 12 | Ruta de Avance 2: Funciones
 &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/PFI/Ruta%20de%20Avance%202)
-&nbsp;[<img src="./images/Devolucion.png" alt="Devolucion Logo" width="25" height="25">](https://drive.google.com/open?id=1hUjsyicHVHAl6JHEX0ZLOB3y5TtseNDz&usp=drive_copy)
 - [x] Clase 15 | Proyecto Final
 &nbsp;[<img src="./images/Enlace.png" alt="Enlace Logo" width="25" height="25">](https://github.com/fedco-gtz/Python-TalentoTech/tree/main/PFI/Entrega%20del%20Proyecto%20Final)
 &nbsp;[<img src="./images/Devolucion.png" alt="Devolucion Logo" width="25" height="25">](https://docs.google.com/document/d/1gI3RVrM6U5_kL1pMv91QM1aFhqSsNG87/edit?usp=sharing&ouid=111304312363209534974&rtpof=true&sd=true)
 
 ______________________________________________________________________________________________________
-### `ÚLTIMA ACTUALIZACIÓN 09/12/2024`
+### `ÚLTIMA ACTUALIZACIÓN 21/12/2024`
